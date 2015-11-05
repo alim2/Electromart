@@ -1,0 +1,6 @@
+c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\bin\Electromart.dll.config
+c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\bin\Electromart.dll
+c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\bin\Electromart.pdb
+c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\obj\Debug\Electromart.csprojResolveAssemblyReference.cache
+c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\obj\Debug\Electromart.dll
+c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\obj\Debug\Electromart.pdb

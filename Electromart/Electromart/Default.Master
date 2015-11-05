@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="Electromart.Default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="~/Content/DefaultStylesheet.css"/>
+    <link type="text/css" rel="stylesheet" href="~/Content/Bootstrap/bootstrap.min.css" />
+    <script type="text/javascript" src="~/Content/Bootstrap/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+
+    <form id="form1" runat="server">
+    <div class="Banner">
+        <asp:Button class="bg-primary" ID="BtnSignIn" runat="server" Text="Sign in" />
+        <asp:Button class="bg-primary" ID="BtnSignUp" runat="server" Text="Sign Up" />
+    </div>
+
+    <div>
+        <asp:ContentPlaceHolder ID="BodyContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

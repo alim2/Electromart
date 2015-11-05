@@ -1,0 +1,19 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+.Banner {
+    height: 100px;
+    width: 100%;
+    background-color: cadetblue;
+}
+
+#BtnSignIn {
+    margin-left: 900px;
+    margin-top: 70px;
+}
+
+#BtnSignUp {
+    margin-left: 3px;
+}
