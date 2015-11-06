@@ -11,7 +11,7 @@ namespace Electromart
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write("");
+            Response.Write("Hello");
         }
     }
 }
