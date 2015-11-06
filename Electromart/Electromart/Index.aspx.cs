@@ -12,7 +12,7 @@ namespace Electromart
         protected void Page_Load(object sender, EventArgs e)
         {
             Response.Write("Hello");
-            Response.Write("THIS IS ME..... MY NAME IS MOHIM   ");
+            Response.Write("THIS IS ME..... MY NAME IS MOHIM");
         } 
     }
 }
