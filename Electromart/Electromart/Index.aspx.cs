@@ -15,5 +15,9 @@ namespace Electromart
             Response.Write("test by shawon");
             Response.Write("test by mohim");
         }
+        public void test()
+            {
+            Response.Write("hello cat");
+            } 
     }
 }
