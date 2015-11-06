@@ -18,6 +18,7 @@ namespace Electromart
         public void Test()
         {
             Response.Write("hello cat");
+            Response.Write("hello kitten");
         }
     }
 }
