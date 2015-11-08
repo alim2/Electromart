@@ -1,0 +1,21 @@
+﻿body {
+}
+
+.ElectroMartBanner {
+    background-color: aquamarine;
+    height: 100px;
+}
+
+.BtnSignIn {
+    margin-left: 2px;
+    
+}
+
+.NewTopProduct {
+    height: 180px;
+    margin-top: 10px;
+    background-color: beige;
+}
+h3 {
+    text-align: center;
+}

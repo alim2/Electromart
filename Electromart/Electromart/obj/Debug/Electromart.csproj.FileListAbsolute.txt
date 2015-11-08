@@ -4,3 +4,13 @@ c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\bi
 c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\obj\Debug\Electromart.csprojResolveAssemblyReference.cache
 c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\obj\Debug\Electromart.dll
 c:\users\shawon\documents\visual studio 2015\Projects\Electromart\Electromart\obj\Debug\Electromart.pdb
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\bin\Electromart.dll.config
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\bin\Electromart.dll
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\bin\Electromart.pdb
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\obj\Debug\Electromart.csprojResolveAssemblyReference.cache
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\obj\Debug\Electromart.dll
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\obj\Debug\Electromart.pdb
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\bin\DataLayer.dll
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\bin\EntityLayer.dll
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\bin\DataLayer.pdb
+C:\Users\Shawon\Documents\GitHubVisualStudio\Electromart\Electromart\Electromart\bin\EntityLayer.pdb
